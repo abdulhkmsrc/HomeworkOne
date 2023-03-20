@@ -1,6 +1,6 @@
 ---
 title: "Homework 1"
-author: "Write Your Name and Student ID Here!"
+author: "Abdulhakim Sarıyüce 20080399"
 ---
 
 ```{r global_options, include=FALSE}
@@ -13,40 +13,51 @@ opts_chunk$set(fig.align="center", fig.height=4, fig.width=5.5)
 
 **Question 1** With Markdown write a sentence that has one word in bold.
 
-This is **bold**.
+Türkiye is a **secular** country.
 
 **Question 2** With Markdown write a sentence that has one word in italic.
 
-Write Your Answer Here!
+Data science is the _best_ lecture I have ever seen.
 
 **Question 3** With Markdown write a sentence that has one word in italic bold.
 
-Write Your Answer Here!
+Galatasaray is going to finish **_Turkish League_** as a champion.
 
 **Question 4** With Markdown write an unordered list with three items.
 
-Write Your Answer Here!
+* Car.
+* Pencil.
+* Beer.
 
 **Question 5** With Markdown write an ordered list with three items.
 
-Write Your Answer Here!
+1. Rice.
+2. Chicken.
+3. Pepper.
 
 **Question 6** With Markdown give a link to your favorite webpage.
 
-Write Your Answer Here!
+[YouTube](https://www.youtube.com/)
 
 **Question 7** With Markdown add a cat picture.
 
-Write Your Answer Here!
+![Cute Cat](https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/08/142774.jpg)
 
 **Question 8** With Rmarkdown insert a code chunk and give an example of a simple mathematical calculation in it.
 
-Write Your Answer Here!
+```{r}
+x <-99
+y <-96
+sum(x+y)
+```
+
 
 **Question 9** With $LaTeX$ write your favorite equation in block form.
 
-Write Your Answer Here!
+$$ x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} $$
 
 **Question 10** In a code chunk calculate 3 + 4.
 
-Write Your Answer Here!
+```{r}
+3+4
+```
